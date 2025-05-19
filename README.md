@@ -1,2 +1,0 @@
-# inclutech
-Tecnología inclusiva
